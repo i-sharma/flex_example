@@ -1,0 +1,5 @@
+*.pdf
+/non_interactive/lex.yy.c
+/non_interactive/a.out
+/interactive/lex.yy.c
+/interactive/a.out
